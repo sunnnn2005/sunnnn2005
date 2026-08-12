@@ -8,11 +8,12 @@ I am currently looking for SWE, data, ML, and AI engineering internship opportun
 
 ### Data Quality Agent
 
-Agentic data reliability platform where an OpenAI-compatible LLM chooses profiling, quality-check, and report-building tools before producing a structured answer.
+Agentic data reliability platform where an OpenAI-compatible LLM chooses profiling, quality-check, and report-building tools over uploaded business CSV data before producing a structured answer.
 
 - FastAPI backend
 - pandas-based profiling and checks
 - LLM tool calling and prompt-designed JSON output
+- Business CSV upload with owner, primary-key, and schema context
 - Redaction, retry handling, and cost estimation
 - LLM output evaluation against deterministic findings
 - Docker and GitHub Actions CI
