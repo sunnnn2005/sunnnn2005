@@ -8,12 +8,13 @@ I am currently looking for SWE, data, ML, and AI engineering internship opportun
 
 ### Data Quality Agent
 
-Agentic data reliability platform that profiles datasets and detects schema drift, missing values, duplicate keys, freshness failures, volume anomalies, and numeric outliers.
+Agentic data reliability platform that profiles datasets, detects quality failures, and uses an optional OpenAI-compatible LLM advisor for structured risk summaries.
 
 - FastAPI backend
 - pandas-based profiling and checks
-- Severity-weighted quality score
-- Likely-cause and remediation generation
+- Prompt-designed JSON output
+- Redaction, retry handling, and cost estimation
+- LLM output evaluation against deterministic findings
 - Docker and GitHub Actions CI
 
 Repo: https://github.com/sunnnn2005/data-quality-agent
@@ -34,6 +35,7 @@ Repo: https://github.com/sunnnn2005/smart-handwritten-note-taking-app
 
 - Languages: Python, SQL, R, Swift
 - Data: pandas, NumPy, matplotlib, seaborn, regression analysis
+- AI: OpenAI-compatible APIs, prompt design, structured JSON output, LLM evaluation
 - Backend: FastAPI, Pydantic, REST APIs
 - Tools: Docker, GitHub Actions, Git, GitHub
 - iPadOS: SwiftUI, PencilKit, Vision OCR
