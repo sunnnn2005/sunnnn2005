@@ -34,7 +34,7 @@ Repo: https://github.com/sunnnn2005/smart-handwritten-note-taking-app
 
 - Languages: Python, SQL, R, Swift
 - Data: pandas, NumPy, matplotlib, seaborn, regression analysis
-- Backend: FastAPI, Pydantic, REST APIs, PostgreSQL
+- Backend: FastAPI, Pydantic, REST APIs
 - Tools: Docker, GitHub Actions, Git, GitHub
 - iPadOS: SwiftUI, PencilKit, Vision OCR
 
