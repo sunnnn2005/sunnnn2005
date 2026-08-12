@@ -8,11 +8,11 @@ I am currently looking for SWE, data, ML, and AI engineering internship opportun
 
 ### Data Quality Agent
 
-Agentic data reliability platform that profiles datasets, detects quality failures, and uses an optional OpenAI-compatible LLM advisor for structured risk summaries.
+Agentic data reliability platform where an OpenAI-compatible LLM chooses profiling, quality-check, and report-building tools before producing a structured answer.
 
 - FastAPI backend
 - pandas-based profiling and checks
-- Prompt-designed JSON output
+- LLM tool calling and prompt-designed JSON output
 - Redaction, retry handling, and cost estimation
 - LLM output evaluation against deterministic findings
 - Docker and GitHub Actions CI
@@ -35,7 +35,7 @@ Repo: https://github.com/sunnnn2005/smart-handwritten-note-taking-app
 
 - Languages: Python, SQL, R, Swift
 - Data: pandas, NumPy, matplotlib, seaborn, regression analysis
-- AI: OpenAI-compatible APIs, prompt design, structured JSON output, LLM evaluation
+- AI: LLM tool calling, OpenAI-compatible APIs, prompt design, structured JSON output, LLM evaluation
 - Backend: FastAPI, Pydantic, REST APIs
 - Tools: Docker, GitHub Actions, Git, GitHub
 - iPadOS: SwiftUI, PencilKit, Vision OCR
