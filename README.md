@@ -6,18 +6,6 @@ I am currently looking for SWE, data, ML, and AI engineering internship opportun
 
 ## Featured Projects
 
-### SignalRoot Agent
-
-Agentic incident-triage platform that correlates alerts, metrics, logs, deploy history, and known incident signatures to generate root-cause reports.
-
-- FastAPI backend
-- Interactive dashboard
-- Weighted evidence ranking
-- Agent trace output
-- Docker and GitHub Actions CI
-
-Repo: https://github.com/sunnnn2005/signalroot-agent
-
 ### Data Quality Agent
 
 Agentic data reliability platform that profiles datasets and detects schema drift, missing values, duplicate keys, freshness failures, volume anomalies, and numeric outliers.
