@@ -24,6 +24,7 @@ Public evidence:
 - Demo: https://sunnnn2005.github.io/data-quality-agent/
 - Recruiter evidence pack: https://github.com/sunnnn2005/data-quality-agent/blob/main/docs/application-evidence-pack.md
 - AI Engineer review card: https://github.com/sunnnn2005/data-quality-agent/blob/main/docs/ai-engineer-reviewer-card.md
+- Open AI reviewer request: https://github.com/sunnnn2005/data-quality-agent/issues/26#issuecomment-5293612291
 - Public evidence health: 96/96 checks passing
 - Test suite: 218 passing tests
 - Current honest traction baseline: 0 confirmed external users, 0 accepted external feedback items, 0 GitHub stars
